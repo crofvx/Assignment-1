@@ -1,4 +1,4 @@
-# Assignment-1
+# Assignment-1 (Camilo Ortiz)
  This program will implement an array made up of 100 integers. 
  When the program is ran the user will be introduced and prompted to choose between the options corresponding to the program functions.
  Choose an option and the program will call the functions that were called to the option and perform it according to the array. 
