@@ -5,17 +5,6 @@
 using namespace std;
 
 
-
-
-  
-  // cout << "Welcome to your Array!!" << endl;
-  // cout << "Please choose an option from below"<< endl;
-  // cout << "1: display array"<< endl;
-  // cout << "2: add a new number to the array"<< endl;
-  // cout << "3: find a number in the array"<< endl;
-  // cout << "4: quit" << endl;
-  
-
 int menuChoice(){
   int choice;
   int addNum;
